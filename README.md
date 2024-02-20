@@ -1,0 +1,1 @@
+# kashier-prestashop-8
